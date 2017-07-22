@@ -1,0 +1,9 @@
+{
+  "name": "mcstats-node-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mysql": "latest",
+    "body-parser": "latest"
+  }
+}
